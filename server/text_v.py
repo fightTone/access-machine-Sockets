@@ -1,0 +1,7 @@
+file = raw_input("enter filename: ")
+f = open(file,'rb')
+data = f.read()
+f.close()
+nf = open('text_v.txt','wb')
+nf.write(data)
+nf.close()
