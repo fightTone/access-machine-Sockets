@@ -1,2 +1,2 @@
-# access-machine-SSH
+# access-machine-Sockets
 study in ssh
